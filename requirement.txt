@@ -1,0 +1,21 @@
+npm init
+
+npm install
+
+morgan (url tracker)
+express
+mongoose
+dotenv
+nodemon (Automatic server start)
+bcryptjs -> for generate & Match password
+jsonwebtoken -> For generate token
+express-jwt -> For middleware for validate jwt token (Protect Routes)
+multer -> for uploadin image on server
+
+
+For Image upload
+1 Findout the best configuration for our eshop
+2 Destination & uploaded files names
+3 using postman to tst the image upload
+4 validate file type
+5

@@ -1,0 +1,20 @@
+category
+------------
+name, icon, color, status, created_on, updated_on
+
+product
+--------
+name
+category
+MRP
+Sale Price
+Stock
+short Decs
+long Decs
+main image
+images
+status
+is_featured
+is_trending
+created_on
+updated_on
